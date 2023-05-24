@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DocQuip/static/css/main.153295c3.css",
+    "main.js": "/DocQuip/static/js/main.9b19451b.js",
+    "static/js/787.c6c3fcb4.chunk.js": "/DocQuip/static/js/787.c6c3fcb4.chunk.js",
+    "index.html": "/DocQuip/index.html",
+    "main.153295c3.css.map": "/DocQuip/static/css/main.153295c3.css.map",
+    "main.9b19451b.js.map": "/DocQuip/static/js/main.9b19451b.js.map",
+    "787.c6c3fcb4.chunk.js.map": "/DocQuip/static/js/787.c6c3fcb4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.153295c3.css",
+    "static/js/main.9b19451b.js"
+  ]
+}
