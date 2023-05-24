@@ -1,0 +1,26 @@
+footer{
+    background-color: red;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: center;
+    padding: 2rem;
+  }
+  footer div{
+    flex-basis: 30%;
+
+  }
+  footer h1{
+    letter-spacing: 0.3rem;
+  }
+  footer h1 span{
+    color: blue;
+  }
+  footer p{
+    font-size: 1rem;
+  }
+  footer i{
+    margin: 0px 5px;
+  }
